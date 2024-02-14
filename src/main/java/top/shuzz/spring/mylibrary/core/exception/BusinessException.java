@@ -1,6 +1,7 @@
 package top.shuzz.spring.mylibrary.core.exception;
 
-import top.shuzz.springmylibrary.core.response.FatalResponseEnum;
+
+import top.shuzz.spring.mylibrary.core.response.FatalResponseEnum;
 
 /**
  * @author heng
