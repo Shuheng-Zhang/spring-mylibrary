@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://127.0.0.1/2024_my_library
+    username: root
+    password: root
+file-storage-config:
+  temp-dir: /Users/zhangshuheng/workspace/DevProjectData/spring-mylibrary/temp
+  book-file-storage-dir: /Users/zhangshuheng/workspace/DevProjectData/spring-mylibrary/originals
+  cover-file-storage-dir: /Users/zhangshuheng/workspace/DevProjectData/spring-mylibrary/covers
